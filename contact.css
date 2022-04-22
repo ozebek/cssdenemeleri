@@ -1,0 +1,28 @@
+#kullanıcı {
+    width: 120px; margin-bottom: 12px;
+}
+body{
+    text-align: center;
+}
+header{
+    margin:0 0 5px 0;
+}
+nav{
+    margin:10px ;
+}
+input{
+    padding: 3px; 
+
+}
+body{
+    background: rgb(178, 197, 236);
+}
+footer{
+   font-size: 30px; margin-top: 40px
+}
+main{
+    margin: 70px auto;
+}
+#teslimet{
+    background: rgb(232, 88, 88); padding: 5px;
+}

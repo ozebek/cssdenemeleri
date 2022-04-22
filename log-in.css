@@ -1,0 +1,28 @@
+#kullanıcı {
+    width: 180px; margin-bottom: 12px;
+}
+body{
+    text-align: center;
+}
+header{
+    margin:0 0 5px 0;
+}
+nav{
+    margin:10px ;
+}
+input{
+    padding: 3px; 
+
+}
+body{
+    background: rgb(202, 203, 205);
+}
+footer{
+   font-size: 30px;
+}
+main{
+    margin: 200px auto; 
+}
+#login{
+    background: rgb(159, 222, 215);
+}

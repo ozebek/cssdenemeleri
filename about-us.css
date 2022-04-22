@@ -1,0 +1,49 @@
+#kullanıcı {
+    width: 120px; margin-bottom: 12px;
+}
+body{
+}
+header{
+    margin:0 0 5px 0;
+}
+nav{
+    margin:10px ;
+}
+input{
+    padding: 3px; 
+
+}
+body{
+    background: rgb(202, 203, 205);
+}
+footer{
+   font-size: 30px;
+}
+main{
+    margin: 30px auto;
+}
+img{
+    width: 100px;
+}
+#article2{
+    text-align: center; 
+}
+#article1{
+    text-align: center;
+}
+nav{
+    text-align: center;
+}
+header{
+    text-align: center;
+}
+footer{
+    text-align: center;
+}
+aside{
+    width: auto;
+    position: relative;
+}
+table{
+    margin: 10px auto 10px 400px;
+}
